@@ -1,0 +1,7 @@
+.vscode/
+env/
+tools/test.py
+tools/__pycache__/*
+.project
+lintertest/
+todo.md
